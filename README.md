@@ -30,6 +30,7 @@ Click the image to check out the live demo:
 Corona React free is released under MIT license. This is a free react admin template developed by BootstrapDash. Feel free to download it, use it, share it, and get creative with it.
 
 ## More from BootstrapDash
+- https://github.com/BootstrapDash/corona-react-free-admin-template
 - [StarAdmin Free Bootstrap Admin Template](https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template)
 - [PurpleAdmin Free Admin Template](https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template)
 - [MajesticAdmin Free Bootstrap Admin Template](https://github.com/BootstrapDash/MajesticAdmin-Free-Bootstrap-Admin-Template)
