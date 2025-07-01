@@ -4,8 +4,7 @@ Corona React, available as a free template. It’s an elegant and attractive adm
 
 ## Demo
 
-[[N|Solid](screenshot.jpg)]
-
+![DemoDashboard](https://github.com/tsroliveira/corona-react-free-admin-template/blob/main/screenshot.jpg)
 
 ## Credits:
 
