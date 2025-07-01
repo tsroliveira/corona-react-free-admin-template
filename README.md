@@ -4,7 +4,7 @@ Corona React, available as a free template. It’s an elegant and attractive adm
 
 ## Demo
 
-[N|Solid](screenshot.jpg)
+[[N|Solid](screenshot.jpg)]
 
 
 ## Credits:
